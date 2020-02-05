@@ -1,8 +1,8 @@
 # Olga Latkina  
 
 ## Contact info
-* GitHub: https://github.com/olgalatkina  
-* Email: olga.latkina@gmail.com  
+* GitHub: [https://github.com/olgalatkina](https://github.com/olgalatkina)  
+* Email: [olga.latkina@gmail.com](mailto:olga.latkina@gmail.com)
 * Skype: olga.latkina
 
 ## Summary
@@ -28,8 +28,8 @@ And well, I badly love ice cream.
 * AdobeCC/CorelDraw etc. as a designer 
 
 ## Code examples
-* https://github.com/olgalatkina/805973-mishka
-* https://github.com/olgalatkina/805973-gllacy
+* [https://github.com/olgalatkina/805973-mishka](https://github.com/olgalatkina/805973-mishka)
+* [https://github.com/olgalatkina/805973-gllacy](https://github.com/olgalatkina/805973-gllacy)
 
 ## Experience
 * 2017 December - now: *freelance (graphical design)*
