@@ -1,9 +1,9 @@
-# Olga Latkina  
+# Olga Latkina
 
 ## Contact info
-* GitHub: [https://github.com/olgalatkina](https://github.com/olgalatkina)  
+* GitHub: [https://github.com/olgalatkina](https://github.com/olgalatkina)
 * Email: [olga.latkina@gmail.com](mailto:olga.latkina@gmail.com)
-* Skype: olga.latkina
+* Skype: [skype:olga.latkina](olga.latkina)
 
 ## Summary
 Experienced graphical designer (20+ years),
@@ -19,13 +19,13 @@ And well, I badly love ice cream.
 ## Instruments
 * HTML
 * CSS
-* JavaScript 
+* JavaScript
 * Gulp
 * Sass
 * BEM
 * Git
 * Zeplin
-* AdobeCC/CorelDraw etc. as a designer 
+* AdobeCC/CorelDraw etc. as a designer
 
 ## Code examples
 * [https://github.com/olgalatkina/805973-mishka](https://github.com/olgalatkina/805973-mishka)
@@ -33,7 +33,7 @@ And well, I badly love ice cream.
 
 ## Experience
 * 2017 December - now: *freelance (graphical design)*
-* 2006 May - 2017 December: *Graphic Designer (OOO 'Bonjour', Novosibirsk)* 
+* 2006 May - 2017 December: *Graphic Designer (OOO 'Bonjour', Novosibirsk)*
 * 1992 November - 2006 April: *Tech Artist (Siberian Branch Institute of Archaeology and Ethnography of the Russian Academy of Sciences, Novosibirsk)*
 
 ## Education
@@ -42,10 +42,10 @@ And well, I badly love ice cream.
 * 2018 August - September: *HTMLAcademy Professional HTML&CSS, level 1*
 * 2008 January: *Higher Academic School of Graphic Design, winter school*
 * 2007 January: *Higher Academic School of Graphic Design, winter school*
-* 2006 May: *Higher Academic School of Graphic Design, school of caligraphy*
-* 1992 - 1986: *Novosibirsk State Pedagogical University, department of graphic arts, specialist (5 years)*  
+* 2006 May: *Higher Academic School of Graphic Design, school of calligraphy*
+* 1992 - 1986: *Novosibirsk State Pedagogical University, department of graphic arts, specialist (5 years)*
 
 ## Languages
 * Russian (native)
-* English (A++)
+* English (A2)
 * Polish (B1)
