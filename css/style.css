@@ -1,0 +1,83 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style: none;
+}
+
+body {
+  font-family: "Roboto", "Verdana", sans-serif;
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #323232;
+
+  background-color: #cccccc;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 80px 160px 120px;
+  max-width: 1024px;
+  background-color: white;
+}
+
+.header {
+  display: flex;
+  margin-bottom: 60px;
+}
+
+.header__picture {
+  display: block;
+  margin-left: 20px;
+  width: 248px;
+  height: 258px;
+}
+
+.header__wrapper {
+  margin: 10px 0 0 120px;
+}
+
+.header__title {
+  margin-bottom: 80px;
+}
+
+.main {
+  max-width: 580px;
+}
+
+.contact__title,
+.summary__title,
+.skills__title,
+.instruments__title,
+.code-ex__title,
+.experience__title,
+.education__title,
+.langs__title {
+  margin-bottom: 12px;
+}
+
+.summary,
+.skills,
+.instruments,
+.code-ex,
+.experience,
+.education {
+  margin-bottom: 32px;
+}
