@@ -3,123 +3,129 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700&amp;subset=cyrillic" rel="stylesheet">
   <link rel="stylesheet" href="css/normalize.css">
   <link rel="stylesheet" href="css/style.css">
   <title>Curriculum vitae</title>
 </head>
-<body class="page">
-  <header class="header">
-    <h1 class="header__title">Olga Latkina</h1>
-    <img class="header__picture" src="img/sketch.jpg" alt="sketch" width="248" height="258">
-    <section class="contact">
-      <h2 class="contact__title">Contact info</h2>
-      <ul class="contact__list">
-        <li class="contact__item">GitHub: <a class="contact__link" href="https://github.com/olgalatkina">https://github.com/olgalatkina</a></li>
-        <li class="contact__item">Email: <a class="contact__link" href="mailto:olga.latkina@gmail.com">olga.latkina@gmail.com</a></li>
-        <li class="contact__item">Skype: <a class="contact__link" href="skype:olga.latkina">olga.latkina</a></li>
-      </ul>
-    </section>
-  </header>
+<body>
+  <div class="container">
+    <header class="header">
+      <img class="header__picture" src="img/sketch.jpg" alt="sketch" width="248" height="258">
 
-  <main>
-    <section class="summary">
-      <h2 class="summary__title">Summary</h2>
-      <p class="summary__text text">Experienced graphical designer (20+ years),
-        looking for an opportunity to change my career path
-        towards designing and programming of Web applications
-        and user interfaces.
-        And well, I badly love ice cream.</p>
-    </section>
+      <div class="header__wrapper">
+        <h1 class="header__title">Olga Latkina</h1>
+        <section class="contact">
+          <h2 class="contact__title">Contact info</h2>
+          <ul class="contact__list">
+            <li class="contact__item"><b>GitHub: </b><a class="contact__link" href="https://github.com/olgalatkina">https://github.com/olgalatkina</a></li>
+            <li class="contact__item"><b>Email: </b><a class="contact__link" href="mailto:olga.latkina@gmail.com">olga.latkina@gmail.com</a></li>
+            <li class="contact__item"><b>Skype: </b><a class="contact__link" href="skype:olga.latkina">olga.latkina</a></li>
+          </ul>
+        </section>
+      </div>
+    </header>
 
-    <section class="skills">
-      <h2 class="skills__title">Skills</h2>
-      <ul class="skills__list">
-        <li class="skills__item">Expert: graphical design, calligraphy, team leader</li>
-        <li class="skills__item">Beginner: Web applications and interfaces programmer</li>
-      </ul>
-    </section>
+    <main class="main">
+      <section class="summary">
+        <h2 class="summary__title">Summary</h2>
+        <p class="summary__text">Experienced graphical designer (20+ years),
+          looking for an opportunity to change my career path
+          towards designing and programming of Web applications
+          and user interfaces.
+          And well, I badly love ice cream.</p>
+      </section>
 
-    <section class="instruments">
-      <h2 class="instruments__title">Instruments</h2>
-      <ul class="instruments__list">
-        <li class="instruments__item">HTML</li>
-        <li class="instruments__item">CSS</li>
-        <li class="instruments__item">JavaScript</li>
-        <li class="instruments__item">Gulp</li>
-        <li class="instruments__item">Sass</li>
-        <li class="instruments__item">BEM</li>
-        <li class="instruments__item">Git</li>
-        <li class="instruments__item">Zeplin</li>
-        <li class="instruments__item">AdobeCC/CorelDraw etc. as a designer</li>
-      </ul>
-    </section>
+      <section class="skills">
+        <h2 class="skills__title">Skills</h2>
+        <ul class="skills__list">
+          <li class="skills__item"><b>Expert:</b> graphical design, calligraphy, team leader</li>
+          <li class="skills__item"><b>Beginner: </b>web applications and interfaces programmer</li>
+        </ul>
+      </section>
 
-    <section class="code-ex">
-      <h2 class="code-ex__title">Code examples</h2>
-      <ul class="code-ex__list">
-        <li class="code-ex__item">
-          <a class="code-ex__link" href="https://github.com/olgalatkina/805973-mishka">
-            Project &laquo;Mishka&raquo;/HTMLAcademy
-          </a>
-        </li>
-        <li class="code-ex__item">
-          <a class="code-ex__link" href="https://github.com/olgalatkina/805973-gllacy">
-            Project &laquo;Gllacy&raquo;/HTMLAcademy
-          </a>
-        </li>
-      </ul>
-    </section>
+      <section class="instruments">
+        <h2 class="instruments__title">Instruments</h2>
+        <ul class="instruments__list">
+          <li class="instruments__item">HTML</li>
+          <li class="instruments__item">CSS</li>
+          <li class="instruments__item">JavaScript</li>
+          <li class="instruments__item">Gulp</li>
+          <li class="instruments__item">Sass</li>
+          <li class="instruments__item">BEM</li>
+          <li class="instruments__item">Git</li>
+          <li class="instruments__item">Zeplin</li>
+          <li class="instruments__item">AdobeCC/CorelDraw etc. as a designer</li>
+        </ul>
+      </section>
 
-    <section class="experience">
-      <h2 class="experience__title">Experience</h2>
-      <ul class="experience__list">
-        <li class="experience__item">
-          2017 December - now: freelance (graphical design)
-        </li>
-        <li class="experience__item">
-          2006 May - 2017 December: Graphic Designer (OOO 'Bonjour', Novosibirsk)
-        </li>
-        <li class="experience__item">
-          1992 November - 2006 April: Tech Artist (Siberian Branch Institute of Archaeology and Ethnography of the Russian Academy of Sciences, Novosibirsk)
-        </li>
-      </ul>
-    </section>
+      <section class="code-ex">
+        <h2 class="code-ex__title">Code examples</h2>
+        <ul class="code-ex__list">
+          <li class="code-ex__item">
+            <a class="code-ex__link" href="https://github.com/olgalatkina/805973-mishka">
+              Project &laquo;Mishka&raquo;/HTMLAcademy
+            </a>
+          </li>
+          <li class="code-ex__item">
+            <a class="code-ex__link" href="https://github.com/olgalatkina/805973-gllacy">
+              Project &laquo;Gllacy&raquo;/HTMLAcademy
+            </a>
+          </li>
+        </ul>
+      </section>
 
-    <section class="education">
-      <h2 class="education__title">Education</h2>
-      <ul class="education__list">
-        <li class="education__item">
-          2019 June - July: HTMLAcademy Professional JavaScript, level 1
-        </li>
-        <li class="education__item">
-          2018 September - October: HTMLAcademy Professional HTML&CSS, level 2
-        </li>
-        <li class="education__item">
-          2018 August - September: HTMLAcademy Professional HTML&CSS, level 1
-        </li>
-        <li class="education__item">
-          2008 January: Higher Academic School of Graphic Design, winter school
-        </li>
-        <li class="education__item">
-          2007 January: Higher Academic School of Graphic Design, winter school
-        </li>
-        <li class="education__item">
-          2006 May: Higher Academic School of Graphic Design, school of calligraphy
-        </li>
-        <li class="education__item">
-          1992 - 1986: Novosibirsk State Pedagogical University, department of graphic arts, specialist (5 years)
-        </li>
-      </ul>
-    </section>
+      <section class="experience">
+        <h2 class="experience__title">Experience</h2>
+        <ul class="experience__list">
+          <li class="experience__item">
+            <b>2017 December - now: </b>freelance (graphical design)
+          </li>
+          <li class="experience__item">
+            <b>2006 May - 2017 December: </b>Graphic Designer (OOO 'Bonjour', Novosibirsk)
+          </li>
+          <li class="experience__item">
+            <b>1992 November - 2006 April: </b>Tech Artist (Siberian Branch Institute of Archaeology and Ethnography of the Russian Academy of Sciences, Novosibirsk)
+          </li>
+        </ul>
+      </section>
 
-    <section class="langs">
-      <h2 class="langs__title">Languages</h2>
-      <ul class="langs__list">
-        <li class="langs__item">Russian (native)</li>
-        <li class="langs__item">English (A2)</li>
-        <li class="langs__item">Polish (B1)</li>
-      </ul>
-    </section>
-  </main>
+      <section class="education">
+        <h2 class="education__title">Education</h2>
+        <ul class="education__list">
+          <li class="education__item">
+            <b>2019 June - July: </b>HTMLAcademy Professional JavaScript, level 1
+          </li>
+          <li class="education__item">
+            <b>2018 September - October: </b>HTMLAcademy Professional HTML&CSS, level 2
+          </li>
+          <li class="education__item">
+            <b>2018 August - September: </b>HTMLAcademy Professional HTML&CSS, level 1
+          </li>
+          <li class="education__item">
+            <b>2008 January: </b>Higher Academic School of Graphic Design, winter school
+          </li>
+          <li class="education__item">
+            <b>2007 January: </b>Higher Academic School of Graphic Design, winter school
+          </li>
+          <li class="education__item">
+            <b>2006 May: </b>Higher Academic School of Graphic Design, school of calligraphy
+          </li>
+          <li class="education__item">
+            <b>1992 - 1986: </b>Novosibirsk State Pedagogical University, department of graphic arts, specialist (5 years)
+          </li>
+        </ul>
+      </section>
+
+      <section class="langs">
+        <h2 class="langs__title">Languages</h2>
+        <ul class="langs__list">
+          <li class="langs__item">Russian (native)</li>
+          <li class="langs__item">English (A2)</li>
+          <li class="langs__item">Polish (B1)</li>
+        </ul>
+      </section>
+    </main>
+</div>
 </body>
 </html>
